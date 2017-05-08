@@ -2,7 +2,6 @@
 
 #include <vector>
 #include <map>
-#include <typeinfo>
 
 typedef void
 (*logprintf_t)(char* format, ...)
